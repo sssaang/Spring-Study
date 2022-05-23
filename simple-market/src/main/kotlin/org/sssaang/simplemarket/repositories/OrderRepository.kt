@@ -1,4 +1,4 @@
-package org.sssaang.logtracer.repositories
+package org.sssaang.simplemarket.repositories
 
 import org.springframework.stereotype.Repository
 

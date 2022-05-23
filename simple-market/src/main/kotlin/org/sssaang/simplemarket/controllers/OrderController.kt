@@ -1,8 +1,8 @@
-package org.sssaang.logtracer.controllers
+package org.sssaang.simplemarket.controllers
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController
-import org.sssaang.logtracer.services.OrderService
+import org.sssaang.simplemarket.services.OrderService
 
 @RestController
 class OrderController(private val orderService: OrderService) {
